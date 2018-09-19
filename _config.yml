@@ -1,15 +1,14 @@
 # Site settings
-title: 
+author: Corinne Fox 
+title: Corinne Fox 
 header-img: img/home-bg.png
 email: corinnefox01@gmail.com
-copyright_name: corinnefox01
+copyright_name: Corinne Fox 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A place to inspire 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  corinnefox01
-learn_profile: corinnefox01
-email_username: corinnefox01@gmail.com
 
 # Build settings
 markdown: kramdown
